@@ -2,9 +2,9 @@
 
 ## Competition: [here](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/)
 
-## Score: 0.262. 
+## Score: 0.262
 
-## Rank: 357/1005 on 2025-12-09.
+## Rank: 357/1005 on 2025-12-09
 
 ## Member
 - Nguyen Lam Thai
