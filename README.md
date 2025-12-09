@@ -6,11 +6,11 @@
 
 ## Rank: 357/1005 on 2025-12-09
 
-## Member
+## Team: K66UET_INT3405E2
 - Nguyen Lam Thai
 - Nguyen Cong Tuan Phuong
 
-## Report: [here](report.pdf)
+## Report: [PDF](report.pdf)
 
 ## Naming convention for notebooks
 
@@ -28,12 +28,10 @@
 | Model #9  | kaggle-notebook/2025-12-07-cafa6-09-model-ensemble.ipynb  |
 
 ## How to reproduce 0.262?
-- git clone this repo
-- extract [ESM2.7z](ESM2.7z) to ESM2/
-- Run [kaggle-notebook/2025-12-05-cafa6-08-model-improvement-V3.ipynb](kaggle-notebook/2025-12-05-cafa6-08-model-improvement-V3.ipynb). Remember to change `ESM_EMBEDDINGS = "/kaggle/input/esm2-t6-8m-ur50d-cafa6"` to `ESM_EMBEDDINGS = "ESM2"` first.
+- run [this kaggle notebook](https://www.kaggle.com/code/thaimeuu/my-best-score)
 - submit to CAFA6
 
-## Submission file: [here](submission.7z)
+## Submission file: [GG Drive](https://drive.google.com/file/d/1RAyyX0IsXVaLIOKW_-Txtm3unFYvXHKy/view?usp=sharing)
 
 ## Note
 - The report doesn't show all submissions. So some notebooks in [kaggle-notebook/](kaggle-notebook) are not referenced in the table above.
