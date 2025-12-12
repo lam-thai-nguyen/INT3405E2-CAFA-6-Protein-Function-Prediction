@@ -28,7 +28,7 @@
 | Model #9  | kaggle-notebook/2025-12-07-cafa6-09-model-ensemble.ipynb  |
 
 ## How to reproduce 0.262?
-- run [this kaggle notebook](https://www.kaggle.com/code/thaimeuu/my-best-score)
+- run [this kaggle notebook](https://www.kaggle.com/code/thaimeuu/my-best-score?scriptVersionId=285756760)
 - submit to CAFA6
 
 ## Submission file: [GG Drive](https://drive.google.com/file/d/1RAyyX0IsXVaLIOKW_-Txtm3unFYvXHKy/view?usp=sharing)
